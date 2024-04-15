@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "roll": "1",
+      "name": "anisha"
+    },
+    {
+      "id": 1,
+      "roll": "2",
+      "name": "niks"
+    },
+    {
+      "id": 2,
+      "roll": "3",
+      "name": "ritesh"
+    },
+    {
+      "id": 3,
+      "roll": "4",
+      "name": "ruhi"
+    },
+    {
+      "roll": "5",
+      "name": "kirti",
+      "id": 4
+    }
+  ]
+}
